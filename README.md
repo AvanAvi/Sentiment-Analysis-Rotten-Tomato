@@ -1,13 +1,3 @@
-<br/><br/><div id="top"></div>
-
-<center><a style="font-size: 40pt; font-weight: bold">Rotten Tomato Movie Review</a></center>
-<br/>
-<center><a style="font-size: 22pt; font-weight: bold">Binary Classification on Artificial Movie Data Set</a></center>
-<br/>
-
----
-
-
 # Introduction
 
 ## Problem Statement
