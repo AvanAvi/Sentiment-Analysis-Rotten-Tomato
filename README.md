@@ -60,7 +60,12 @@ Accuracy: Classification + Sentiment Analysis = 64.7%
 
 #Conclusion:
 ##What Worked:
+Word Cloud for Positive Reviews
+![image](https://github.com/RagiBhatt07/Sentiment-Analysis-Rotten-Tomato/assets/124009502/222023b2-2898-48ce-af38-4357f92f3375)
 
+
+Word Cloud for Negative Reviews
+![image](https://github.com/RagiBhatt07/Sentiment-Analysis-Rotten-Tomato/assets/124009502/b76ca871-baed-4b2a-8d0a-7d1d4d19f9dd)
 
 
 *   Balancing the training data
