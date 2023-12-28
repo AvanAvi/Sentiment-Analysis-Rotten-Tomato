@@ -22,6 +22,11 @@ In the critics dataset each record represents a critic review published on Rotte
 
 Link to Dataset: https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
 
+## Project Members:
+* HACHEM Racha
+* FESTA Denis
+* BHATT Ragi
+
 
 
 **Strategy 1**: Following this path we created two balanced datasets to tackle two different problems:
